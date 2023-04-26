@@ -5,7 +5,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif">
-    <h1 align="center">Estudando <3</h1>
+    <h1 align="center">Estudando</h1>
     <img align="center" height="30" width="40" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
