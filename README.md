@@ -15,7 +15,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contato</h1>
     <a href = "mailto: otaviocalderanadm@gmail.com">
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png?w=740&t=st=1682526430~exp=1682527030~hmac=2b100282496e98eea4443dd6881fa1e82ea5b2d8984dbe414facfa7362e6a154">
     </a>
