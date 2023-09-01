@@ -21,7 +21,7 @@ Sou um desenvolvedor de sistemas iniciante, determinado em adquirir mais experi�
 </div>
 
 ## Projetos e Atividades 
-- Desenvolvimento de aplicativos web e móveis usando as tecnologias acima.
+- Desenvolvimento de software usando as tecnologias acima.
 - Contribuições para projetos open source visando o aprimoramento da comunidade de desenvolvedores.
 - Explorando constantemente novas áreas e conceitos dentro da programação.
 
