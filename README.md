@@ -1,8 +1,8 @@
 ## Welcome to my profile! I am Otavio Calderan.
 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-CB&layout=compact&theme=transparent&hide_langs_below=1" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-CB&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-CB&layout=compact&theme=dark&hide_langs_below=1" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-CB&show_icons=true&theme=dark"/>
 </div>
 
 ## About Me
