@@ -1,14 +1,14 @@
-## Bem-vindo ao meu perfil! Eu sou Otavio Calderan.
+## Welcome to my profile! I am Otavio Calderan.
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-CB&layout=compact&theme=transparent&hide_langs_below=1" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-CB&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-## Sobre Mim
-Sou um desenvolvedor de sistemas iniciante, determinado em adquirir mais experiência e evoluir na minha carreira. Tenho uma forte paixão por tecnologia e estou sempre procurando desafios que me permitam expandir minhas habilidades em linguagens de programação.
+## About Me
+I am a beginner systems developer, determined to gain more experience and advance in my career. I have a strong passion for technology and am always seeking challenges that allow me to expand my skills in programming languages.
 
-## Tecnologias
+## Technologies
 <div align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -20,12 +20,12 @@ Sou um desenvolvedor de sistemas iniciante, determinado em adquirir mais experi�
   </div>
 </div>
 
-## Projetos e Atividades 
-- Desenvolvimento de software usando as tecnologias acima.
-- Contribuições para projetos open source visando o aprimoramento da comunidade de desenvolvedores.
-- Explorando constantemente novas áreas e conceitos dentro da programação.
+## Projects and Activities
+- Software development using the technologies mentioned above.
+- Contributions to open-source projects aiming to enhance the developers' community.
+- Constantly exploring new areas and concepts within programming.
 
-## Contato
+## Contact
 <div align="center"> 
   <div style="display: inline_block"><br>
 <a href="mailto:otaviocalderanadm@gmail.com">
