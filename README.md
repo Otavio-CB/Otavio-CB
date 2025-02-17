@@ -1,44 +1,52 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Otavio-CB.Otavio-CB" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Otavio+Calderan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Otavio+Calderan!;" />
 </h1>
 
-<h3 align="center">I am a beginner systems developer from Brasil 🇧🇷</h3>
+<h3 align="center">🚀 Systems Developer | AI & Data Science Enthusiast</h3>
 
 <br/>
 
 <div align="center">
  
- I am a beginner systems developer, determined to gain more experience and advance in my career. I have a strong passion for technology and am always seeking challenges that allow me to expand my skills in programming languages.
+ 🔹 Passionate about **software development**, **data science**, and **artificial intelligence**.  
+ 🔹 Experienced in **full-stack development**, **computer vision**, **AI models**, and **Docker**.  
+ 🔹 Always exploring new technologies and taking on challenges that push my boundaries.
 
- </div>
- 
+</div>
+
 <div align="center"> 
   <a href="mailto:otaviocalderanadm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/otavio-calderan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/otavio-calderan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,r" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,mysql,flask" /><br>
+    <h3>🌐 Front-end</h3>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,mui,react,vscode" /><br>
+    <h3>⚙️ Back-end</h3>
+    <img src="https://skillicons.dev/icons?i=c,docker,flask,git,github,java,javascript,mysql,nodejs,opencv,python,spring,typescript" /><br>
+    <h3>🔧 DevOps & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=azure,bash,githubactions,gradle,linux,md" /><br>
 </div>
+
+
 
 <br/>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Stats 📊</h2>
 <br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=Otavio-CB&theme=react" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Otavio-CB&count_private=true&show_icons=true&theme=react" alt="readme stats" />
   <br/>
