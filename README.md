@@ -33,9 +33,9 @@
     <h3>🌐 Front-end</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,mui,react,vscode" /><br>
     <h3>⚙️ Back-end</h3>
-    <img src="https://skillicons.dev/icons?i=c,docker,flask,git,github,java,javascript,mysql,nodejs,opencv,python,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=c,flask,java,javascript,mysql,nodejs,opencv,python,spring,typescript" /><br>
     <h3>🔧 DevOps & Tools</h3>
-    <img src="https://skillicons.dev/icons?i=azure,bash,githubactions,gradle,spring,linux,md" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,bash,docker,git,github,githubactions,gradle,linux,md" /><br>
 </div>
 
 
